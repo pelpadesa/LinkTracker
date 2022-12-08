@@ -1,5 +1,6 @@
 # LinkTracker
 A lightweight link-tracking program built to provide easy access for Copy/Pasting URLs you commonly use when writing.
+
 ![image](https://user-images.githubusercontent.com/117033048/206345108-8f4196b5-00c5-4425-a3ec-c938e3710744.png)
 
 ## Installation
